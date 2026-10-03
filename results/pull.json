@@ -1,0 +1,15 @@
+{
+  "pulled": "2026-10-03",
+  "files": {
+    "gistemp.csv": {
+      "url": "https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv",
+      "bytes": 12887,
+      "sha256": "c9ce0750ca93a8241c42fe86cd5bf54d07b28b21ae650b0ae49a206907018cd9"
+    },
+    "co2_annmean_mlo.csv": {
+      "url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_annmean_mlo.csv",
+      "bytes": 3134,
+      "sha256": "897770430ce802e232a0be272bff74b92757c39bfda26be1e213b19cbf71ac04"
+    }
+  }
+}
